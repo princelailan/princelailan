@@ -1,93 +1,132 @@
 ---
 
-<div align="center">
+<h1 align="center">
+  🌸 <span style="color:#f06292">Prince Lailan</span> | Joseph Onyango 👑<br/>
+  <span style="font-size: 20px;">Creative Developer, Designer, and Pathfinder 🚀</span>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F78FD5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Joseph+Onyango+%F0%9F%91%91+aka+Prince+Lailan;Creative+Dev+%E2%9C%A8+who+codes+with+sass+%26+style;Fullstack+Developer+%7C+MERN+%7C+Python+%7C+Kotlin+%F0%9F%96%A5%EF%B8%8F;Building+chaotic+UIs+and+peaceful+APIs+%F0%9F%92%BB;18%2B+certified+pathfinder+%E2%9C%9D%EF%B8%8F+and+Sunday+school+teacher;The+dev+who+codes+on+phone+and+still+delivers+%E2%9C%94%EF%B8%8F+%F0%9F%94%A5" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🌸 About Me
-
-> I'm not just a dev—I'm a vibe 💅
-
-* 💼 Fullstack Developer | MERN • Kotlin • Python • Tailwind
-* 🏫 Power Learn Project Graduate (on a phone, btw 📱😎)
-* 🧠 Self-taught + Taught others right after high school
-* ✝️ Sunday School Teacher | Certified Counselor | Pathfinder 🌿
-* 🧑‍🎨 Designer of UI that slaps ✨ (and sometimes bunnies)
-* 📖 Sci-fi reader. 1800+ poems. 49+ books (unpublished...for now 👀)
-* 🧍Over 36,000 contacts memorized (like literally... I remember where we met 😌)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F06292&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Prince+Lailan!;Code.+Design.+Inspire.;From+Kenya+to+the+Clouds%E2%9C%A8;Powered+by+Kotlin%2C+React%2C+and+Grace;Working+Magic+with+HTML%2C+CSS+%26+GIFs;Spreading+Joy+%2C+Memes+%2C+and+Knowledge+Everywhere"/>
+</p>
 
 ---
 
-## 🔧 Toolbox
+### 🧁 About Me
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin\&logoColor=white\&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white\&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express\&logoColor=white\&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs\&logoColor=white\&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss\&logoColor=white\&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql\&logoColor=white\&style=for-the-badge)
-
-</div>
+```md
+💖 Joseph Onyango aka "Prince Lailan"
+🎓 Creative Dev | Graphic Designer | Poet | AI Explorer
+🎉 19 years young and running on pure vibe and deadlines
+🌍 Kenyan-made, globally-coded 🌐
+📱 Survived a whole Kotlin course with just a Samsung A05
+💡 Turned PLP projects into 💵 side hustles
+👑 Crowned Queen of Finishing Assignments Last Minute Yet Still Slaying
+```
 
 ---
 
-## ✨ Featured Projects
+### 💻 Tech Stack
 
-| Project                 | Stack                               | Description                                                                               |
-| ----------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Princely Care**       | MERN, MongoDB, Express, React, Node | A full-blown health management system built on a low-end phone. Because why not? 📱💪     |
-| **Confess.AI**          | React + GPT                         | Anonymous AI confession booth with sass, secrets, and secure advice 💌                    |
-| **Mad Market**          | HTML/CSS/JS                         | Kenyan-themed chaotic rave marketplace with hot vendor deals and loud animations 🛍️🔊    |
-| **Mindfulness Site**    | HTML                                | A calm project that once went live at 3am with no CSS. Dev trauma certified 😵‍💫         |
-| **Shujaah Health Care** | Mongo, Auth, Admin                  | Secure medical system with user types (patient, admin, dev). Dev panel has its own GUI 🎮 |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,mongodb,kotlin,html,css,tailwind,figma,sql,bash&theme=light" />
+</p>
 
----
-
-## 🌟 Badges I Deserve (or already earned 😎)
-
-![Pathfinder](https://img.shields.io/badge/-Pathfinder-green?style=for-the-badge)
-![Sunday School](https://img.shields.io/badge/-Teacher-pink?style=for-the-badge)
-![Power Learn Project](https://img.shields.io/badge/-PLP%20Student-blueviolet?style=for-the-badge)
-![Offline Coder](https://img.shields.io/badge/-Coded%20on%20Phone-red?style=for-the-badge)
-![Poet](https://img.shields.io/badge/-1800%2B%20Poems-orange?style=for-the-badge)
-![Unpublished Author](https://img.shields.io/badge/-49%20Books-grey?style=for-the-badge)
-![Late Night Debugger](https://img.shields.io/badge/-3AM%20CSS%20Fixer-black?style=for-the-badge)
+```md
+🧠 AI Tools: GPT-4o (aka my coding BFF), LangChain, HuggingFace
+🛠️ MERN Fullstack Developer
+🔒 Cyber-noob but tryna be cyber-sleek
+📸 Also slaps posters, edits photos, makes bday cards
+🎭 Actress in code. Drama queen in UIs.
+```
 
 ---
 
-## 📝 Currently Learning
+### 🚀 Ongoing Projects
 
-* Advanced backend with NestJS
-* CI/CD workflows with GitHub Actions 🚀
-* Whisper + GPT-Vision for smarter AI interfaces
-* Rainmeter Skin Design (dev-themed lock screens ft. Easter bunnies 🐰)
-* Scaling on low-end devices 💾
-
----
-
-## 📩 Let’s Talk
-
-* 💌 Email: `onyangojoseph246@gmail.com`
-* 🌐 Portfolio (coming soon)
-* 🧠 Wanna collab or roast each other's code? DM me.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coder at work" />
-</div>
-
-> *“When others say ‘it can’t be done on a phone,’ I’ve already shipped it.”* – Me, probably 💅
+```md
+🌈 Confess.AI – Anonymous AI confessions with sass & soul
+🏥 Shujaah HealthCare – Full-stack hospital platform with admin & dev dashboards
+🧠 Pathfinder Kingdom Bot – Auto meeting joiner, screenshots, bunnies & all
+🌍 Kenya Explorer – Interactive heritage web app with drag & drop cards
+🛍️ Mad Market – Loud chaotic online Kenyan market with vendors & voice chaos
+```
 
 ---
 
-<sub>PS: If you read this far, you’re either a recruiter or nosy. Either way, let’s work 😘</sub>
+### 🌟 GitHub Badges That Slap
+
+<p align="center">
+  <a href="mailto:princelailan@gmail.com"><img src="https://img.shields.io/badge/Email-PrinceLailan-pink?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/princelailan"><img src="https://img.shields.io/badge/GitHub-%40princelailan-pink?style=for-the-badge&logo=github" /></a>
+  <a href="https://wa.me/254107103049"><img src="https://img.shields.io/badge/Chat%20Me%20on%20WhatsApp-Let's%20Code%20Babe!-f06292?style=for-the-badge&logo=whatsapp" /></a>
+  <img src="https://img.shields.io/badge/MERN-Stack-in%20my%20DNA-f50057?style=for-the-badge&logo=mongodb"/>
+</p>
+
+---
+
+### 🎬 My Dev Life: Animated
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6Z3Z2bWI2Z2oyczU2MDF5a2EzN2Z6ajhxdjV5M3Q3a2Y2dW1hcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="My Dev Journey" />
+</p>
+
+---
+
+### 🦄 More Things You Didn't Ask But I'm Telling Anyway
+
+```md
+💘 Wrote 1800+ unarchived poems (Don’t ask where they are 😅)
+📚 49 unpublished books — your fav author’s fav dev
+🖥️ Finished 118+ projects & I still remember every bug
+🧁 Ex-environmental prefect who now writes clean code instead
+🔮 Dev by day, Sunday school teacher by vibes
+🎓 Taught after high school, then taught the teachers in PLP
+🤳 Over 36,789 contacts. I remember every. single. one.
+🌱 Nature-lover who’s been quarantined in Murang’a
+🧩 Certified counselor & chaos enthusiast
+```
+
+---
+
+### 🌈 UI/UX & Design Vibe
+
+```md
+🎨 Built “Mindfulness” as a calm site. Forgot to style index.html. Found out at 3am.
+🎀 Girlish themes? Bunny-fied UIs? Baby-themed Rainmeters? Say less.
+🎧 I vibe to dev beats while crafting colorful interfaces with sass & sugar
+🖌️ Currently turning my ReadMe into a Pixar film.
+```
+
+---
+
+### 📦 Fun Widgets (Live-ish)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princelailan&style=flat-square&color=ff69b4" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princelailan&theme=rose_pine&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💌 Let’s Link Up
+
+```md
+📧 Email: princelailan@gmail.com
+📞 Phone: 0107 103 049
+🌐 Portfolio (coming soon... or is it?): [Insert suspense music here]
+🔗 Socials: Add me if you wanna witness the chaos
+```
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F50057&center=true&vCenter=true&width=600&lines=Stay+Curious+🌸;Build+Wild+Stuff+👩‍💻;Break+the+Rules+%F0%9F%92%96;Push+Commits%2C+Not+People+%F0%9F%A4%96;Write+Code+That+Feels+Like+Home"/>
+</p>
+
+---
+
+<h3 align="center">✨ Thank you for scrolling till the end — now go build something chaotic & cool ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM3aGRuaTZsbzRzOG12b2I1MXlyMGJtcnA2em1vdm5hZXJxaGJtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" width="200" alt="Bye bye!"/>
+</p>
