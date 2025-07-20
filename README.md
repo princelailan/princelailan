@@ -1,126 +1,79 @@
-<!-- README.md styled like a live HTML landing page -->
-
-<h1 align="center" style="font-size: 3rem; color: #ff69b4;">👑 Prince Lailan aka Joseph Onyango</h1>
-<p align="center" style="font-size: 1.2rem; color: #555;">Creative Dev | Frontend Alchemist | Kingdom Coder | AI Sidekick Enthusiast | Pathfinder IRL</p>
-
----
-
-<div align="center" style="margin-bottom: 2rem;">
-  <a href="https://github.com/princelailan/shujaah-health-care-by-prince-lailan">
-    <img src="https://img.shields.io/github/last-commit/princelailan/shujaah-health-care-by-prince-lailan?style=for-the-badge&color=ff69b4" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=princelailan&style=for-the-badge&color=blue" />
-  <a href="https://www.tiktok.com/@princelailan">
-    <img src="https://img.shields.io/badge/TikTok-%40princelailan-black?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.instagram.com/prince_lailan">
-    <img src="https://img.shields.io/badge/Instagram-@prince__lailan-ff69b4?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:jesuspromisesmedia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/princelailan">
-    <img src="https://img.shields.io/badge/GitHub-%40princelailan-333?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/My_Site-Jesus_Promises_Media-yellow?style=for-the-badge&logo=google-chrome" />
-  </a>
-</div>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">🧠 Who TF is Joseph?</h2>
-  <p>
-    I'm <strong>Joseph Onyango</strong> — better known online as <strong>Prince Lailan</strong>. 19-year-old software engineer, vibe machine,
-    self-taught coding rebel, and visual digital artist from Kenya 🇰🇪. I build sick UIs, efficient backend systems, and AI bots that work like magic.
-    Finished high school in 2024, skipped the excuses, and went straight into the deep end of fullstack development.
-  </p>
-  <blockquote>Fun Fact: I once forgot to add CSS to a live project. My soul left my body at 3:12AM 🫠</blockquote>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">⚙️ Tech Stack & Tools</h2>
-  <ul>
-    <li><strong>Frontend:</strong> HTML, CSS, Tailwind, JavaScript, React, Vite, Framer Motion</li>
-    <li><strong>Backend:</strong> Node.js, Express, Python, SQL, MongoDB, API dev, JWT</li>
-    <li><strong>Mobile Dev:</strong> Kotlin + responsive mobile-first UI skills</li>
-    <li><strong>DevOps:</strong> Git, GitHub Actions, Render, Netlify, CI/CD</li>
-    <li><strong>AI:</strong> ChatGPT API, prompt engineering, bot integration</li>
-    <li><strong>Design:</strong> Figma, Canva, Adobe tools, custom card & poster work</li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">🚀 Projects That Actually Hit</h2>
-  <ul>
-    <li><strong>Shujaah Health Care</strong> – A full MERN app with dashboards for admins, devs, and patients. <a href="https://github.com/princelailan/shujaah-health-care-by-prince-lailan">[Repo]</a></li>
-    <li><strong>Confess.AI</strong> – Anonymous confession + AI advice with persona switching & rate limits. <em>(Coming soon)</em></li>
-    <li><strong>BunnyBot Attendant</strong> – An auto-attendance .exe bot with girlish UI and screenshot proof features. <em>(WIP)</em></li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">🌍 IRL Stuff</h2>
-  <ul>
-    <li>KCSE B- from Chogoria Boys (2024)</li>
-    <li>PLP Software Engineering student (Fullstack MERN)</li>
-    <li>Sunday School teacher, Pathfinder, peer counselor</li>
-    <li>1800+ poems, 49 books, 118 projects, 36,789 contacts memorized</li>
-    <li>Still built most of this on a Samsung A05 😤</li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">🧃 Right Now I’m Into...</h2>
-  <ul>
-    <li>Building <strong>Confess.AI</strong> MVP + launch plan</li>
-    <li>Designing a girlish rave lockscreen Rainmeter theme</li>
-    <li>Finishing PLP MERN Stack Final Assignment</li>
-    <li>Fixing everyone’s code 2 hours before submission 😅</li>
-    <li>Coming up with punchy bios & badge ideas</li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">💌 Contact Me</h2>
-  <p>
-    Want to collab? Need a freelance dev with fire design skills? Just vibe with the profile? Hit me up:
-  </p>
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:jesuspromisesmedia@gmail.com">jesuspromisesmedia@gmail.com</a></li>
-    <li><strong>TikTok:</strong> <a href="https://www.tiktok.com/@princelailan">@princelailan</a></li>
-    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/prince_lailan">@prince_lailan</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/princelailan">@princelailan</a></li>
-    <li><strong>Site:</strong> <a href="https://yourwebsite.com">Jesus Promises Media</a> <!-- Replace with your real domain if available --></li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h2 style="color: #ff69b4;">🧩 Bonus Badges</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Built%20with-Bunnylised%20UI-ffb6c1?style=flat-square" />
-    <img src="https://img.shields.io/badge/Mental_Health-✓-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/Certified-Vibe%20Dev-ff69b4?style=flat-square" />
-    <img src="https://img.shields.io/badge/Code%20Mode-Coding%20in%20the%20Dark-black?style=flat-square" />
-    <img src="https://img.shields.io/badge/React.js-Overdosed-61DAFB?style=flat-square&logo=react" />
-  </p>
-</section>
-
----
-
+<h1 align="center">🌸 Prince Lailan — Joseph Onyango 🌸</h1>
 <p align="center">
-  <em>“Don’t just write code. Write legacy.”</em> – Prince Lailan
+  <i>💻 Creative Developer | 🎓 Software Engineer | 🧠 Overthinker with Killer Code Vibes</i><br>
+  <i>🐰 Dev Bunny by Day, Coding Fairy by Night ✨</i>
 </p>
+
+---
+
+### 🌈 About Me
+
+```bash
+> npx joseph-onyango
+🎀 19 years young and making GitHub feel like a pink-coded party
+🎓 High school grad from Chogoria Boys ('24) — Mean Grade: B- (Big Brain Certified™)
+📱 Survived engineering using a Samsung A05 before getting a ProBook 💪
+🧠 Full-stack wizard. MERN Stack ✨. Python priest. SQL whisperer. Kotlin queen.
+🎨 Built 118+ projects. Wrote 49 books. Penned 1,800+ poems — and counting.
+👑 Founded Princely Care, Mindfulness, and the chaotic masterpiece called Mad Market
+🧍🏽‍♂️ I remember how I met every one of my 36,789 contacts. Yeah. That’s a flex.
+
+💌 Contacts & Stalk Me Links
+📧 Email: princelailan@gmail.com (or add yours here)
+📞 Phone: +254 107103049
+🌐 Portfolio: coming soon... stay girly
+🐦 Twitter: @PrinceLailan (make this real!)
+🎨 Behance: WIP
+📸 Instagram: WIP
+📍 Location: Kenya (Tharaka Nithi, Meru, Murang'a, Nairobi... I’ve lived)
+
+🧰 My Magic Toolbelt
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vite,python,kotlin,html,css,tailwind,figma,sqlite,git" /> </p>
+🪄 Frontend Sorcery: React (Vite🔥), Tailwind, HTML5, CSS3
+🔮 Backend Spells: Express, Node.js, MongoDB, SQLite
+🧠 Languages: JavaScript, Python, Kotlin, SQL
+🎨 UI Charm: Figma, girlish rainmeter setups, bunny-themed lock screens
+
+🌟 Badges That Slap
+<p align="center"> <img src="https://img.shields.io/badge/MERN-Baddie-purple?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/PLP-Star-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pathfinder-Leader-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Church-Girl👼🏽-ff69b4?style=for-the-badge" /> <img src="https://img.shields.io/badge/💥-118_Projects-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/🧁-Fun_Creative_AFK-red?style=for-the-badge" /> </p>
+🧪 Projects With Drama
+Project	What It Do	Vibe
+🏥 Princely Care	Full-stack healthcare app	💉 Data meets heart
+🧠 Mindfulness	A calm website (was blank at 3AM 🫠)	🧘‍♀️ Oops
+🛍️ Mad Market	Kenya’s craziest animated e-rave	🎉 Market meets chaos
+📊 COVID Tracker	Global pandemic dashboard	📈 Nerdy and cute
+🤖 Meeting Attendant Bot	Auto join + screenshots + cuteness	🐇 Zoom but with glitter
+👻 Confess.AI	Anonymous advice, freemium AI	💌 Sweet tea meets GPT
+
+🧠 Experience & Skills
+💬 Taught students after high school for 3 months
+🌱 Taught PLP peers — they survived. You're welcome
+📚 Built websites, databases, AI tools, and pitch decks
+📜 Certified Counselor and Pathfinder Leader
+🧩 Played with Mongo queries, hooks, tokens, pipes, you name it
+💌 Turned PLP lessons into side hustle bag 💰
+
+📌 Fun Facts That Slap
+I don’t break — I debug.
+
+I literally coded with a Samsung A05. RESPECT.
+
+Never had a heartbreak. Too booked & blessed 💅
+
+I wrote 49 books. Not drafts. BOOKS.
+
+I remember how I met 36,000+ people. Yuh. Try me.
+
+I take screenshots of Zoom meetings for proof. Bot does it.
+
+🐣 My Motto?
+“If it ain’t fancy, it ain’t me.” — Prince Lailan 👑
+“I don’t code. I charm the compiler.”
+
+💖 Signature
+bash
+Copy
+Edit
+Signed with sass and logic,
+Joseph Onyango | Prince Lailan 🐰
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61A6&center=true&vCenter=true&width=435&lines=Creative+Dev+%7C+MERN+Baddie+%7C+Python+Babe+%7C+Design+Fairy+%7C+God+1st" /> </p> ```
