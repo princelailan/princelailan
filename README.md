@@ -1,92 +1,105 @@
-<h1 align="center">🚀 Joseph Onyango — aka Prince Lailan</h1>
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&pause=1000&color=F78EC2&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Joseph+Onyango+aka+Prince+Lailan+%F0%9F%92%97;Creative+Developer+%7C+AI+Tinkerer+%7C+PLP+Engineer+%F0%9F%92%BB;Python+Lover+%E2%9D%A4%EF%B8%8F+%7C+Web+Princess+%F0%9F%91%B8%E2%80%8D%E2%99%80%EF%B8%8F+%7C+Bug+Buster+%F0%9F%A7%AA+%F0%9F%92%A9" alt="Typing SVG"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&lines=Creative+Developer;Full-Stack+Engineer;Python+%7C+React+%7C+Kotlin+%7C+MongoDB;Storyteller+%7C+Teacher+%7C+Problem+Solver;Building+cool+things+with+weird+tools" />
+  <img src="https://img.shields.io/badge/Gender-Male-%23ff69b4?style=flat-square&logo=mermaid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Age-19-%23ff69b4?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Title-Creative%20Dev-%23ff69b4?style=flat-square&logo=rainbow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-Stack%20Dev-%23ff69b4?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF61A6&width=400&lines=👤+About+Me" />
+## 🪄 About Me
 
-```bash
-$ whoami
-19-year-old software engineer & creative dev from Kenya 🇰🇪
+🎨 Joseph Onyango, a.k.a. **Prince Lailan**, here to break stereotypes and render bugs powerless with a sprinkle of glitter and a whole lotta code. Think sugar, spice, and 1800+ poems worth of programming magic. I'm not just a dev, I'm the whole developer *kingdom* 👑.
 
-Real name: Joseph Onyango | Dev handle: Prince Lailan
+* 🌍 From Kenya, speaking code and vibes fluently.
+* 💻 118+ full projects coded on phone + PC. Try me.
+* 🧠 49 books written. Most unpublished, all unforgettable.
+* 💡 Known to code a full-stack app while sipping tea and singing K-pop.
+* 🐣 Certified guidance counselor + Sunday school teacher.
+* 💌 Known for replying late but submitting early (yes, I am the paradox).
+* 🐇 Theme lover: from bunnies to bubblegum pink chaos.
 
-Built 100+ projects from a budget phone before upgrading to a ProBook
+---
 
-Obsessed with solving real-world problems, building UI that feels human, and storytelling through tech
+## 💅 Skills That Slay
 
-Writer of 49+ books and 1800+ poems — code is just my loudest medium
+| Category           | Skills                                                      |
+| ------------------ | ----------------------------------------------------------- |
+| 💻 Languages       | Python, Kotlin, JavaScript, HTML5, CSS3, SQL                |
+| 🌐 Frontend        | React.js, Tailwind, Bootstrap, Vite                         |
+| 🔙 Backend         | Express.js, Node.js, MongoDB, Mongoose                      |
+| 🧠 Concepts        | REST APIs, MVC, Authentication, JWT, State Management       |
+| 📸 Design          | Photoshop, Canva, Figma, Poster Art, Girly UI Magic         |
+| 🧪 Testing & Tools | Postman, GitHub, Render, Netlify, Git                       |
+| 🤖 AI Power        | ChatGPT Wizard, Whisper AI, Custom GPT Personas             |
+| ✨ Extras           | Firebase, JSON, UI/UX, Rainmeter, CLI Bots, VS Code Sorcery |
 
-Worked on full-stack apps, bots, dashboards, and social AI tools
+---
 
-Mentee turned mentor — I teach, lead, and debug across communities
+## 💖 Projects With Sass & Swagger
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7B801&width=400&lines=📚+Education+%26+Certifications" />
-🎓 Chogoria Boys High School (2024)
-Grade: B- | AGP: 59
-📜 Certified in:
+* 🌐 **Princely Care** – Healthcare Web App. Docs cry in joy when they see it.
+* 📊 **COVID-19 Global Tracker** – Yes, it works offline. Yes, it slaps.
+* 💬 **Confess.AI** – Anonymous therapy but make it ✨ aesthetic ✨.
+* 🛍 **Mad Market** – A rave-themed, voice-activated Kenyan e-commerce circus.
+* 🎮 **Auto-Attendance Bot** – Joins Zoom so you don't have to. (Mic muted. Drama activated.)
+* 🌍 **Kenya Explorer** – Swipe through Kenya like Tinder but for culture.
 
-Software Engineering (Power Learn Project – MERN Track)
+---
 
-Pathfinder Leadership
+## 🧁 Fun Facts & Sass
 
-Counseling & Mentorship
-🧠 Self-taught in design tools, automation, dev agents, and debugging on anything — including phones
+* 🤓 I turned PLP into cash. Monetized my learning while teaching others.
+* 🐌 Used a slow Samsung to build fast apps. Speed is in the brain, not the RAM.
+* 📱 Built REST APIs *on my phone*. That’s not a flex. That’s war.
+* 🎂 I design posters so cute even your grandma would say "waaaah!"
+* 💔 Never been heartbroken. Too busy debugging life.
+* 🧙‍♂️ 1800+ unarchived poems. All original. All vibe.
+* 🌱 Nature lover with a contact list longer than your ex's apologies (36,789 to be exact 😤).
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00A896&width=400&lines=🛠+Tech+Stack+%26+Tools" />
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vite,python,kotlin,html,css,tailwind,figma,sqlite,git,github" /> </p>
-Languages: JavaScript, Python, Kotlin, SQL
-Frameworks: React (Vite), Express.js, Tailwind CSS
-Database: MongoDB, SQLite
-Tools: Git, GitHub, Figma, Canva, PyAutoGUI, Rainmeter
-Magic: can code full-stack apps offline, on a phone, with 3 tabs and no charger
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B&width=400&lines=📈+Experience+%26+Community+Impact" />
-🧑‍🏫 Taught after high school before diving deep into dev
-💡 Became a PLP community mentor, helping peers debug, deploy, and document
-🛠️ Helped build and troubleshoot full-stack apps, backends, pitch decks
-📢 Designed materials, wrote tutorials, and gave guidance across multiple PLP tracks
-🧘 Volunteered in church as a teacher and moral compass
-🧩 Made complex dev tasks fun — even for absolute beginners
+## 🧠 My Mind = AI + Art + Bible + Bubblegum
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF9F1C&width=400&lines=🚀+Projects+That+Slap" />
-Project	What It Does	Stack
-🏥 Princely Care	Full-stack health platform with dashboards & auth	MERN
-😶‍🌫️ Confess.AI	Anonymous advice chat powered by GPT personas	React + GPT
-🐇 Meeting Bot	Auto joins Zoom, turns off cam, takes screenshots	Python
-🌍 COVID Tracker	Global data tracker with visual charts	JS + APIs
-🧘 Mindfulness	UI for mental calm (with a funny CSS fail)	HTML + Tailwind
-🛍️ Mad Market	Chaotic Kenyan e-commerce rave	JS + CSS
-🇰🇪 Kenya Explorer	Card-based tour of Kenya’s history	React
-🔒 Sister Safety	App for women’s safety with SOS & map	Figma + pitch deck
+* 📖 Devotion meets deployment.
+* 🧪 Faith-based full-stack fusion.
+* 💫 Can build, teach, debug, and dance. Often all at once.
+* 📚 Reads sci-fi like gospel. Writes code like spells.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A259FF&width=400&lines=📦+Real+Skills+%7C+Not+Just+Buzzwords" />
-🧠 Code: Write clean code that actually runs (without crying)
-🔐 Auth: JWT, sessions, user roles, secure flows
-🖼️ UI/UX: Figma-level design logic + Tailwind speed
-🎯 Debugging: I can debug on a broken browser — don’t test me
-⚙️ DevOps: CI/CD, .env configs, GitHub Actions
-📦 Offline dev: Built projects fully offline with bundled tools
-📂 Organization: Write clear commits, folder structures, and README docs
-📚 Writing: Explains tech like stories, not textbooks
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=06D6A0&width=400&lines=🏅+Badges+%26+Achievements" />
-<p align="center"> <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/PLP-Mentor-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Debug-Wizard-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pythonic-Dev-yellow?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Pathfinder-Leader-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/49_Books+1800_Poems-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Teacher-Dev_Hybrid-orange?style=for-the-badge" /> </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=EF476F&width=400&lines=📞+Contact+%26+Links" />
-📧 Email: princelailan@gmail.com
-📞 Phone: +254 107103049
-🐙 GitHub: @princelailan
-🌐 Portfolio: WIP (coded offline with style)
-📱 Socials: Coming soon — Instagram, Twitter, LinkedIn
-🖼️ Designs/Lock Screens: Custom Rainmeter UIs & posters available on request
+## 🖱️ Quick Clicks
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=118AB2&width=400&lines=💭+Final+Words" />
-“I don’t just ship code.
-I build things people remember — useful, human, loud, and real.”
+* 📬 **Email**: [onyango.joseph010@gmail.com](mailto:onyango.joseph010@gmail.com)
+* 🌐 **Portfolio**: `Coming Soon. It's baking in React ✨`
+* 💻 **LinkedIn**: Placeholder
+* 🧪 **PLP Dashboard**: Placeholder
+* 🖼 **Gallery**: [Check out my posters and birthday cards](#)
 
-– Joseph Onyango // Prince Lailan
+---
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF476F&center=true&vCenter=true&width=600&lines=Creative+Dev+%7C+Fullstack+Engineer;Fast+learner%2C+late+night+debugger;Big+brain+energy+with+clean+code;Writer+%7C+Mentor+%7C+Kenyan+Builder" /> </p> ```
+## 🧩 Let's Collab!
+
+> *Looking for a dev who can handle both bugs and blush? Let's vibe. I'm open to team-ups, commissions, design collabs, and anime-themed code art.*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&center=true&width=800&lines=Scroll+down+for+more+madness+...;Prince+Lailan+never+misses+a+deadline+%F0%9F%94%A5;Addicted+to+HTML,+high+on+Hope...;MERNgician+%2B+Bubblegum+Brawler+%3D+Me;Learning+never+looked+this+cute+%F0%9F%92%97" />
+</p>
+
+---
+
+*✨ Want the full Prince Lailan experience? Just clone, run, and watch your screen blush ✨*
+
+> ☕ “Ctrl + S your dreams. Deploy your destiny.” – Prince Lailan 💖
+
+---
+
+<!-- still 200 more lines of magic possible... wanna add interactive easter eggs, timeline, pixel art, or rotating GIF banners? -->
