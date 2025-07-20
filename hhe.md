@@ -1,150 +1,100 @@
-<!-- 💖 README of Prince Lailan aka Joseph Onyango 💖 -->
+<!-- README.md - Prince Lailan GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Joseph+Onyango+%7C+Creative+Developer+%F0%9F%92%9C;The+Fullstack+Unicorn+%F0%9F%A6%84+You+Didn't+Know+You+Needed;Software+Engineer+%7C+Graphic+Designer+%7C+Poet+%7C+Sunday+School+Teacher;I+Code%2C+I+Counsel%2C+I+Create+Magic+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Joseph+Onyango+aka+Prince+Lailan+%F0%9F%91%91;Creative+Dev+%E2%9C%A8;Poet+%2F+Designer+%2F+Software+Engineer+%F0%9F%92%BB;Building+beauty+with+code+%E2%9C%A8;Let%E2%80%99s+make+tech+fun+again!+%F0%9F%8C%8B" alt="Typing SVG" />
 </h1>
 
----
-
-## 👑 About Me
-
-```sh
-🧚‍♀️ Name: Joseph Onyango (aka Prince Lailan)
-🖥️ Role: Software Engineer | Creative Developer | AI Tamer
-🏫 Alumni: Chogoria Boys | Tharaka Nithi | Tunyai New Star
-📱 Device Warrior: From Samsung A05 → HP ProBook evolution
-💒 Sunday School Teacher & Certified Counselor
-📚 49+ Unpublished Books | 1,800+ Poems | 100+ Projects
-🌍 Based in Kenya. Fluent in code and chaos.
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYKDrXxkz3XKkYM/giphy.gif" width="300" /><br>
+  <b>“I don't just debug code — I debug life.”</b>
+</p>
 
 ---
 
-## 💼 Experience Snapshot
-
-```sh
-🔧 Power Learn Project – Full MERN Stack Bootcamp Grad
-🏥 Creator: Shujaah Healthcare App
-🧠 Founder: Confess.AI – anonymous AI-powered confession platform
-🌿 Past Dev Moments: Mindfulness Web App | COVID Tracker | Princely Care
-```
-
----
-
-## 🔧 Tech Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,kotlin,sql,github,figma,vite,tailwind,vercel,netlify&theme=light"/>
-</div>
-
-```sh
-💅 Design: Posters | Birthday Cards | Girlish UI | Pixel Art
-🧠 Languages: JavaScript, Python, Kotlin, SQL, HTML, CSS, JSX
-🧠 Frameworks: MERN Stack, Tailwind, Express, Vite, Flask, Bootstrap
-🧠 Tools: GitHub, Canva, Postman, MongoDB Atlas, VS Code
-```
+## 🦄 About Me
+- 🧠 I’m Joseph Onyango, also known as **Prince Lailan**
+- 👑 19 y/o ✨ creative dev ✨ with a deep love for **design, code, poetry**, and **impactful tech**
+- 💖 Built 100+ projects using nothing but grit, vibes, and a Samsung A05
+- 🧑🏽‍💻 Taught students after high school + taught during Power Learn Project
+- 🎨 I create stuff that **works** and **looks good doing it**
+- 🐇 Slightly obsessed with **Easter bunnies** and pink-themed UIs
+- 📚 I’ve written 49 unpublished books, 1,800+ poems, and coded across 4 timezones without missing a deadline.
 
 ---
 
-## 🌸 Fun Facts
+## 👩🏽‍💻 Tech Stack & Skills
 
-```sh
-🌈 I taught before joining PLP
-📞 36,789 contacts – and I remember how we met 💅
-💖 Can debug code and counsel hearts at the same time
-🥳 I’ve coded while dancing. Literally.
-🐰 Designed an auto-attendance bot with bunny ears 🐇
-🎤 Converted PLP lessons into actual cash 💸
-🧙‍♂️ Sometimes I finish assignments *minutes* before deadlines. Still slay them.
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-ffd2f7?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-fdd0ec?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kotlin-fac4e8?style=for-the-badge&logo=kotlin&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML-eec3e8?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CSS-e5b4d1?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-fbe8fc?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Express.js-f5d7eb?style=for-the-badge&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React.js-f3bfe9?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-fad0f6?style=for-the-badge&logo=node.js&logoColor=black" />
+</p>
 
----
-
-## 🛠️ Featured Projects
-
-### 🩷 [Confess.AI](https://github.com/princelailan/confess-ai) – AI Confession Platform
-
-```sh
-- 10 free messages/day
-- GPT personas & dark mode
-- Pink UI + emotional chaos
-```
-
-### 🩺 [Shujaah Health Care](https://github.com/daltonetonny/shujaah-health-care-by-prince-lailan)
-
-```sh
-- Full admin/patient/dev login system
-- Fun 404 replaced with mind games
-- Medical records, login logs, and bot assistant
-```
-
-### 💜 [Mad Market](#)
-
-```sh
-- Kenyan chaos marketplace
-- Animated vendors & shouting deals
-- Audio clips, GIFs, neon drama
-```
+- 💾 SQL, NoSQL, IndexedDB, Mongoose
+- 🧵 Git, GitHub, Vite, Tailwind, Bootstrap
+- 🎛️ REST APIs, Auth, JWT, CRUD, MVC
+- 🔍 Debugging Wizard, Code Stylist, Fast Learner
+- 🎨 Figma, Canva, Photoshop (but still prefer HTML/CSS magic ✨)
+- 📱 Mobile-friendly, responsive designs with a girlish touch always
 
 ---
 
-## 🎓 Certifications & Awards
+## 🚀 Featured Projects
 
-```sh
-🏅 PLP – MERN Stack Dev Certificate
-🌟 Star Dev Mentor – PLP Circle
-🏆 Sunday School Role Model Award
-🧩 Pathfinder & Environmental Leader Badge
-```
-
----
-
-## 🧠 I Also Do:
-
-```sh
-🧃 Poetry (1,800+ and growing)
-🎮 UI/UX Design with drama and glitter
-🖼️ Graphic Design that slaps
-📜 Motivational Writing (try me)
-🎉 Hosting developer meetups with jokes included
-```
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🩺 **Princely Care** | A sleek full-stack health platform | MERN + Tailwind |
+| 🛡 **Shujaah Health** | Healthcare system with dev/admin roles & gamified UX | Node.js + Mongo |
+| 🤖 **Confess.AI** | Anonymous AI advice app with GPTs, personas & freemium flow | React + OpenAI |
+| 🌐 **Mad Market** | A chaotic, animated Kenyan online marketplace with loud deals | HTML + JS + audio |
+| 📚 **Kenya Explorer** | Drag, drop & explore Kenyan culture interactively | React + Tailwind |
 
 ---
 
-## 💬 Let’s Connect
+## 🏆 GitHub Stats
 
-<div align="center">
-  <a href="mailto:princelailan@gmail.com"><img src="https://img.shields.io/badge/Gmail-PrinceLailan-pink?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/princelailan"><img src="https://img.shields.io/badge/GitHub-%40princelailan-pink?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/josephonyango"><img src="https://img.shields.io/badge/LinkedIn-JosephOnyango-pink?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-
----
-
-## 🐣 Bonus Bunny Corner
-
-```sh
-🌸 “Not just a dev, a vibe.”
-🌸 “Sleep-deprived but always alive.”
-🌸 “Wrote 3 scripts in one night and one of them fixed a real-life issue.”
-🌸 “I don’t push to Git. I teleport it.”
-🌸 “Princess of Pink. King of Code. Ruler of Random.”
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princelailan&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffc0cb" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princelailan&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff69b4" width="49%" />
+</p>
 
 ---
 
-## 📌 Current Status
+## 💌 Let’s Connect!
 
-```sh
-✨ Building more fun bots
-✨ Helping students across Africa
-✨ Creating sticker-worthy UIs
-✨ Definitely not sleeping enough
-```
+- 📧 Email: `prince.lailan@gmail.com`
+- 💬 WhatsApp: [0107103049](https://wa.me/254107103049)
+- 🌐 Portfolio: _Coming soon… but expect bunnies and fireworks!_
+- 🐰 Discord Vibe Bot: Loading…
+- 📷 Fun Fact: I also design custom birthday cards 🥳
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=F745C2&center=true&vCenter=true&multiline=true&width=1000&lines=✨+Thanks+for+scrolling+through+my+chaotic+kingdom!+;✨+Let's+collab,+code,+and+create+some+magic+together+%F0%9F%92%9C"
-  />
-</h2>
+## 💎 Easter Eggs
+
+> 🔐 Hover over the boring stuff. It probably sparkles.
+
+- 🕊️ I once debugged a bug in my dream.
+- 😅 I shipped a site at 3am with no CSS (trauma unlocked).
+- 🌸 I can write a love poem in SQL JOINs if dared.
+
+---
+
+## 🥺 One Last Thing
+
+> _“If it’s not pink, poetic, and pixel-perfect... I don’t ship it.”_  
+> — Prince Lailan ✨
+
+---
+
+Want me to **convert this into a portfolio HTML version** that animates as you scroll?  
+Ready when you are. Or I can export this as `.zip` with working badges, local styling, and deploy-ready boilerplate.
+
+👑 Let the world know you code like royalty.  
+Ready to upload this to GitHub? I can push the full version or prep a `.md` file you copy-paste.
