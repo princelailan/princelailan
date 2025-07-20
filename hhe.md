@@ -1,108 +1,146 @@
-````md
-<h1 align="center">✨ Joseph Onyango | Prince Lailan 👑</h1>
+<!-- CyberPunk Pink Glitched README by Prince Lailan -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&vCenter=true&width=435&lines=Hi%2C+I'm+Joseph+Onyango+aka+Prince+Lailan;Creative+Developer+%2F+Tech+Tactician;AI+Bot+Trainer+%7C+MERN+Mastermind;Unreal+ReadMe+Architect+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78BD0&center=true&vCenter=true&multiline=true&width=435&lines=Creative+Developer+with+a+girlish+twist;Fullstack+wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%2C+React+%2B+Mongo+hero;Code+%E2%80%A2+Design+%E2%80%A2+Lead+%E2%80%A2+Repeat;Just+a+Dev+in+a+Cyberpunk+Pink+Kingdom" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="400px" alt="hacking gif">
 </p>
 
 ---
 
-### 👸 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome+to+My+World&fontSize=40&animation=twinkling"/>
+</p>
+
+## 👾 Bio
 
 ```bash
-# echo "Hello, World!" && whoami
-Joseph Onyango, a.k.a Prince Lailan 🦄
-👩‍💻 Self-taught & certified software engineer
-🌍 Based in Kenya | Raised in code
-📱 Built 100+ apps — with nothing but grit and a Samsung A05 (yes, I cooked magic on that thing)
-🧠 Mentor | Counselor | Meme coder | Pathfinder
-🌸 I'm sweet, pink-coded, and I will out-code you in glitter and bytes
-````
+> whoami
+```
+
+```bash
+$ I'm Joseph Onyango, better known as Prince Lailan – The Code Juggler 🪄
+$ Age: 19 (still breaking records like it's 2099)
+$ Location: Kenya, Earth 🌍
+$ Specialty: Software Engineering • MERN • Kotlin • Fullstack Drip • AI + UI madness
+$ Personality: 🌈Crackhead Creative // ⚔️Softcore Savage // 💅Dev in Pink Armor
+```
 
 ---
 
-### 💼 Skills Snapshot
+### 🧠 Core Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-> “She codes with sparkles, deploys with drama, and refactors like it’s tea time.” ☕✨
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,python,kotlin,tailwind,figma,git,github,vscode,postman" />
+</div>
 
 ---
 
-### 🧠 I Can...
+### 🎮 My Arsenal
 
-* Design with heart, build with chaos
-* Develop full MERN apps with auth, CRUD, pagination, uploads
-* Animate interfaces until they blink like a club flyer
-* Switch between dev and GUI interfaces (even made my own auto-meeting bot 🤖)
-* Dream up entire brands from logo to deploy
+```yaml
+Languages:
+  - JavaScript
+  - Python
+  - Kotlin
+  - SQL
+  - HTML & CSS
+
+Frameworks:
+  - React + Vite
+  - Express.js
+  - Tailwind CSS
+
+Special Moves:
+  - 🔥 Full-Stack Alchemy (MERN)
+  - 🤖 AI Bot Trainer (Zoom/Meet Attendant w/ girlish UI)
+  - 🧠 Custom GPT Assistants
+  - 🎨 Poster + Banner Design
+  - 🛠️ UI That Actually Slaps
+
+Softwares:
+  - GitHub Copilot (my pet AI dev)
+  - Figma (pixel perfectionist 😤)
+  - Rainmeter Themes (yeah... I themed my lockscreen too)
+
+Bonus:
+  - Wrote 49+ Unpublished Books ✍️
+  - 1800+ Raw Poems ⚡
+  - Can remember all 36,789 contacts 😮‍💨
+```
 
 ---
 
-### 🚀 Featured Projects
+### 🌪️ Featured Projects
 
-| Project Name           | Description                                                         | Stack                          |
-| ---------------------- | ------------------------------------------------------------------- | ------------------------------ |
-| 💊 Shujaah Health Care | A full-stack med-tech app for local clinics                         | Mongo, Express, Node, React    |
-| 🕊️ Mindfulness        | A calming, pastel-themed personal site (CSS forgot to load once 🥲) | HTML/CSS/JS                    |
-| 🧠 Confess.AI          | Anonymous AI confessions + GPT therapist personas                   | GPT-4, React, Node             |
-| 💻 Princely Care       | A sleek health app dashboard for patient-doctor workflows           | Python, SQL, Flask             |
-| 🛍️ Mad Market         | Animated chaotic Kenyan marketplace app                             | HTML/CSS/JS, custom animations |
+* 🏥 **Shujaah Healthcare** — MERN-powered digital health record system
+* 🧠 **Confess.AI** — An AI confession booth with sass, spice, and GPT personas
+* 🧼 **Mindfulness** — A mental wellness app (accidentally deployed without CSS 💀 at 3am)
+* 💡 **Kenya Explorer** — Cultural interactive card site with dragging and glowing animations
+* 🛍️ **Mad Market** — Animated chaos-packed vendor website with rave energy
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats (REAL AF)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princelailan&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=princelailan&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princelailan&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=princelailan&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=princelailan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princelailan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ Random Fun & Extra Sauce
+### 🏆 Trophies & Tech Respect
 
-* 🍼 Sunday school teacher IRL
-* 💌 Made 1800+ poems & 49 books (none published... yet)
-* 🖼️ Designs posters, birthday cards, CVs that *actually hit*
-* 🧩 Once forgot CSS on a live site. It was trauma @ 3AM.
-* 🐰 Bunny-core UI themes? That’s me.
-* 💖 Spams GitHub commits like she’s fighting a coding war
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princelailan&theme=dracula&row=2&column=3" />
+</p>
 
 ---
 
-### 📬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:onyangojoseph36@gmail.com)
-[![Phone](https://img.shields.io/badge/-Call%20Me-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](tel:+254107103049)
-[![Instagram](https://img.shields.io/badge/-Insta-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/princelailan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/josephonyango)
-
----
-
-### 🐾 Secret Footer
+### 📞 Contact Me IRL
 
 ```bash
-# If you read this far...
-echo "You're officially a member of the Bunny Dev Kingdom 🐇👑"
+📧 Email: princeonyangojojo@gmail.com
+📱 Phone: +254 107 103 049
+🔗 Portfolio: [Coming soon 🔨 under Dev Magic]
 ```
 
+---
+
+### 💻 Live Resume Mode
+
+```json
+{
+  "Teaching": "Taught after high school & led PLP lessons",
+  "Certs": ["Google Dev", "PLP Certified", "Counselor"],
+  "Languages": ["Swahili", "Meru", "English", "Code"],
+  "Hobbies": ["Coding at 3am", "Helping folks beat deadlines", "Designing lock screens with bunnies"]
+}
 ```
 
-> Let me know if you want music embeds, ASCII fireworks, or a hidden hacker-themed Easter egg section next.
+---
 
+### 🧊 Easter Eggs
+
+> 💬 Fun Fact: I once forgot CSS on a deployed app and it became a trauma.
+> 💀 I don’t miss deadlines. I *haunt* them.
+> 🦄 My bots auto-join Zoom meetings, mute cams, and take proof screenshots. Vibes only.
+> 🐇 Every pink UI has a bunny spirit. No cap.
+
+---
+
+### 🖤 Code is Art. GitHub is my Gallery.
+
+```bash
+> commit -m "Life is pink and punk, so is my code."
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f72585&height=200&section=footer&text=Peace+Out+Dev+World&fontSize=30&animation=twinkling"/>
+</p>
+
+<!-- End of chaos. Or is it? -->
