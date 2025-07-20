@@ -11,8 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@prince__lailan-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/prince_lailan)
 [![GitHub](https://img.shields.io/badge/GitHub-%40princelailan-333?style=flat-square&logo=github)](https://github.com/princelailan)
 [![Email](https://img.shields.io/badge/Email-jesuspromisesmedia%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jesuspromisesmedia@gmail.com)
-[![Jesus Promises Media](https://img.shields.io/badge/My_Website-Visit-yellow?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
-[![Confess.AI](https://img.shields.io/badge/Project-Confess.AI-purple?style=flat-square&logo=openai)](https://github.com/princelailan/confess-ai)
+[![Website](https://img.shields.io/badge/Website-Jesus_Promises_Media-yellow?style=flat-square&logo=google-chrome)](https://yourwebsite.com) <!-- REPLACE THIS with your actual site -->
+[![Confess.AI](https://img.shields.io/badge/Project-Confess.AI-purple?style=flat-square&logo=openai)](https://github.com/princelailan/confess-ai) <!-- Placeholder until repo is live -->
 [![Block or Report](https://img.shields.io/badge/Block_or_Report-gray?style=flat-square&logo=github)](https://github.com/princelailan/shujaah-health-care-by-prince-lailan/issues)
 
 </div>
@@ -66,69 +66,61 @@ Oh and yeah — I once built a mindfulness site and forgot to add CSS. It still 
 ## 🧰 Projects You Should Stalk:
 
 ### 🔥 [Shujaah Health Care](https://github.com/princelailan/shujaah-health-care-by-prince-lailan)
-Healthcare web app with patient/admin/dev dashboards, login system, and *actual brains* behind it.
+A fullstack healthcare system with dashboards, login systems, and dev mode support.
 
 ### 🌈 [Confess.AI](https://github.com/princelailan/confess-ai)
-Anonymous AI-powered confession & advice platform with multiple GPT personas, daily message limits, and spicy customization.
+AI-powered anonymous confession and advice platform. Multiple GPT personas, daily message limits, and full customization. *(Coming soon)*
 
-### 👑 [BunnyBot Attendant](coming soon)
-.exe-based Zoom/Meet auto joiner that wears a crown, disables your camera, and leaves screenshots as receipts. Also has bunnies. Duh.
+### 👑 [BunnyBot Attendant](#)
+An upcoming .exe-based meeting bot that auto-joins Zoom/Meet, disables your cam, takes screenshots for proof, and wears a digital crown.
 
 ---
 
 ## 🌍 IRL Me:
 
-- 🏫 Ex-Chogoria Boys | 2024 KCSE Grad | B- and still coding better than some CS majors
-- 💼 PLP Student, Software Engineer track
-- 🧠 Counselor, teacher, mentor, motivator
-- 🤯 Built 118 projects, 49 books (unpublished), 1800+ poems (unarchived)
-- 📷 Also designs cards, posters, and logos for the vibes
-- 📱 Built most of this on a Samsung A05 (yes, seriously)
+- 🏫 Chogoria Boys High School (KCSE 2024 B-)
+- 🧠 Power Learn Project — Fullstack MERN Stack student
+- 🧙‍♂️ Ex-teacher turned software wizard
+- 📖 49 unpublished books, 1800+ poems, 118+ dev projects
+- 📷 Poster/card designer, contact keeper (36K+), community builder
 
 ---
 
 ## 💡 Currently Vibing With:
 
-- `Confess.AI` dev + marketing rollout  
-- AI document enhancer tools  
-- Pathfinder leadership writeups  
-- Building my personal portfolio site  
-- Mastering React hooks and Tailwind components  
-- Fixing everyone else's assignments 10 minutes before submission 😅
+- ✨ Confess.AI development + branding  
+- 🔧 Finalizing PLP Fullstack Projects  
+- 🐇 Designing my “Bunnylised” desktop UI for bots  
+- 🌍 Building a Kenyan marketplace rave site  
+- 📦 Packing offline AI toolkits with dev power  
+- ⏰ Coding 10 minutes before assignment deadline (and still winning)
 
 ---
 
 ## 🧃 Soft Skills (the underrated flex):
 
-- 🚀 Deadlines are jokes to me — I *beat* them
-- 🧠 Memory like an elephant — 36,789 contacts, still remembers how we met
-- 🫂 Friendly AF but allergic to fake energy
-- 🌿 Nature lover and spiritual compass in the chaos
+- 🔥 Always on time, even under pressure  
+- 🧠 Big memory energy — knows people and code  
+- 🫂 Friendly but allergic to fake vibes  
+- 🌱 Nature lover, Pathfinder, leader, role model  
+- 😌 Works from low-end devices but still slays  
 
 ---
 
-## 🧩 Random Fun Facts:
+## 🎯 Let’s Build Something
 
-- Never had a heartbreak (yet) ❤️‍🩹  
-- Once coded while being quarantined in Murang’a  
-- Used to teach before even getting into PLP  
-- I turn trauma into clean UI (yes, even that 3am CSS fail)  
-- I speak JavaScript, HTML, Python... and Kimeru 😎  
+Wanna collab? Pitch an idea? Start something revolutionary with a blend of AI + creativity?  
+**→ Email me:** [jesuspromisesmedia@gmail.com](mailto:jesuspromisesmedia@gmail.com)  
+**→ Or find me on socials:** [TikTok](https://tiktok.com/@princelailan), [Instagram](https://instagram.com/prince_lailan), [GitHub](https://github.com/princelailan)
 
 ---
-
-## 🪐 Wanna Collaborate?
-
-If you’re a developer, designer, brand, NGO, or AI fanatic with an idea that breaks rules and builds something fresh...  
-📩 Slide into my inbox or socials and let’s make digital magic.
 
 > *“Don’t just write code. Write legacy.”* – Prince Lailan
 
 ---
 
-## 📦 Bonus Badges:
+## 🧩 Bonus Badges:
 
-```markdown
 [![Certified Vibe Dev](https://img.shields.io/badge/Vibe-Certified-ff69b4?style=flat-square&logo=funimation)](https://github.com/princelailan)
 [![No Burnout Zone](https://img.shields.io/badge/Mental_Health-✓-brightgreen?style=flat-square)](https://github.com/princelailan)
 [![Built with Bunnylised UI](https://img.shields.io/badge/UI-Bunnylised-ffb6c1?style=flat-square)](https://github.com/princelailan)
