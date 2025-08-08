@@ -106,7 +106,7 @@ Bonus:
 ```bash
 📧 Email: princeonyangojojo@gmail.com
 📱 Phone: +254 107 103 049
-🔗 Portfolio: [(https://princelailan.github.io/JOSEPH-ONYANGO/)]
+🔗 Portfolio: https://princelailan.github.io/JOSEPH-ONYANGO
 ```
 
 ---
